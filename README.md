@@ -16,3 +16,7 @@ This project is a simple AI-powered article generator built using LangGraph work
 3. Streamlit (frontend UI)
 
 This project demonstrates how to chain multiple LLM steps into a structured workflow to generate better and more organized content.
+
+
+<img width="1919" height="1000" alt="Screenshot 2026-04-14 201709" src="https://github.com/user-attachments/assets/93bb823d-d06b-4a97-8db6-c894ec651ac6" />
+
